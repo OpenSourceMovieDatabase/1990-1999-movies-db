@@ -1,5 +1,7 @@
 # 1990-1999-movies-db
 
+Node module based movie database for API's. since source files are available you could use it any framework.
+
 # DISCLAIMER
 ### This repo is only meant for movies meta information such as movie title, release date, cast, genre and other information.
 ### similar to what freebase / IMDB does.
